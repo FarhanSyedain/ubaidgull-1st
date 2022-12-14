@@ -44,7 +44,7 @@ class AboutView extends GetView<AboutController> {
                       child: SizedBox(
                         height: 40,
                         width: 40,
-                        child: Image.asset('icons/icon.jpeg'),
+                        child: Image.asset(controller.authorDPAsset),
                       ),
                     ),
                   ],

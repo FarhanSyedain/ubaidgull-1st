@@ -30,3 +30,12 @@ flutter_icons:
 
 
 
+  assets:
+    - assets/images/
+
+
+  fonts:
+    - family: NunitoSans     
+      fonts:
+        - asset: fonts/NunitoSans-Regular.ttf
+
